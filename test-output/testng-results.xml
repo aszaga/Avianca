@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-18T22:23:04 COT" name="Default suite" finished-at="2021-07-18T22:26:39 COT" duration-ms="214050">
+    <groups>
+    </groups>
+    <test started-at="2021-07-18T22:23:04 COT" name="Default test" finished-at="2021-07-18T22:26:39 COT" duration-ms="214050">
+      <class name="test.TestAvianca">
+        <test-method is-config="true" signature="before()[pri:0, instance:test.TestAvianca@3de8f619]" started-at="2021-07-18T22:23:05 COT" name="before" finished-at="2021-07-18T22:23:20 COT" duration-ms="14999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="test()[pri:0, instance:test.TestAvianca@3de8f619]" started-at="2021-07-18T22:23:20 COT" name="test" finished-at="2021-07-18T22:26:34 COT" duration-ms="194781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="after()[pri:0, instance:test.TestAvianca@3de8f619]" started-at="2021-07-18T22:26:34 COT" name="after" finished-at="2021-07-18T22:26:39 COT" duration-ms="4212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- test.TestAvianca -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
