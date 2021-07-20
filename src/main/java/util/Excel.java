@@ -55,7 +55,7 @@ public class Excel {
 
             fichero = new FileWriter("C:\\Users\\ASTRID\\OneDrive\\Documentos\\VueloAvianca.txt");
 
-            // Escribimos linea a linea en el fichero
+            
             fichero.write(texto + "\n");
 
 
